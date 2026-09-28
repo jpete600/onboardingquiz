@@ -1,0 +1,22 @@
+{
+  "title": "Sample Quiz (replace me)",
+  "questions": [
+    {
+      "prompt": "According to the sample playbook, what is the maximum discount a rep can approve on their own for annual prepay?",
+      "options": ["5%", "10%", "20%", "No limit"],
+      "answer": "10%",
+      "explanation": "The playbook states reps may discount up to 10% on their own for annual prepay; anything above that needs manager or finance approval."
+    },
+    {
+      "prompt": "Per the sample playbook, what should a rep do as soon as a buyer mentions procurement or InfoSec?",
+      "options": [
+        "Wait until the buyer asks for it directly",
+        "Send the security questionnaire pack and loop in the solutions engineer",
+        "Offer a discount to speed things up",
+        "Escalate to the VP of Sales"
+      ],
+      "answer": "Send the security questionnaire pack and loop in the solutions engineer",
+      "explanation": "The playbook says to send the security questionnaire pack immediately and involve the solutions engineer early, since reviews stall when they start late."
+    }
+  ]
+}
